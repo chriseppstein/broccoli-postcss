@@ -23,14 +23,14 @@
   },
   "homepage": "https://github.com/jeffjewiss/broccoli-postcss",
   "dependencies": {
-    "broccoli-caching-writer": "^0.5.5",
-    "mkdirp": "^0.5.0",
+    "broccoli-filter": "^0.1.14",
     "object-assign": "^3.0.0",
-    "postcss": "^4.1.9"
+    "postcss": "^4.1.16"
   },
   "devDependencies": {
     "async": "^1.2.1",
     "broccoli": "^0.15.3",
+    "glob": "^5.0.14",
     "mocha": "*",
     "postcss-pseudoelements": "^2.1.1",
     "rimraf": "^2.4.0"
